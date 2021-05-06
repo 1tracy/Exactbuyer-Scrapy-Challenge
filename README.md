@@ -1,6 +1,6 @@
 # Exactbuyer-Scrapy-Challenge
 
-For this task, my goal was to scrape the law firm listings at OpenDI New York [here](https://new-york.opendi.us/L/110_1.html) for **name, address, number of ratings, and phone number**. To accomplish this, I had to split this challenge into several steps.   
+For this task, my goal was to scrape the law firm listings at OpenDI New York [here](https://new-york.opendi.us/L/110_1.html) for **name, address, number of ratings, and phone number**. My ideal customer would be one looking to hire a lawyer in New York, and would want an aggregated list of law firm information to make it easier to search for specific firms. To accomplish this, I had to split this challenge into several steps.   
 
 1/  Since I had never used Scrapy before, I was not familiar with its syntax and methods. So, for the first few days, I studied and did some practice projects with Scrapy before I tackled this challenge. I learned about building Scrapy spiders as well as using its CSS selectors. I defined the goal of this project as scraping the firm name, address, number of ratings, and phone numbers.  
 
